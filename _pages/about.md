@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I'm Ryan Convery, a Junior studying Computer Engineering at Virginia Tech. Passionate about technology and innovation, I thrive on solving complex problems and creating impactful solutions. My academic journey has included hands-on experience with programming, hardware design, and system optimization, complemented by projects in areas like game development, image processing, and circuit design. I'm currently seeking opportunities to apply my skills through internships or co-ops, where I can contribute to real-world projects and continue to grow as an engineer. Outside of academics, I enjoy exploring emerging technologies and staying involved in engineering communities.
 
 A data-driven personal website
 ======
