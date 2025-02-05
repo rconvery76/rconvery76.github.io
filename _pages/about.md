@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I’m Ryan Convery, a Computer Engineering student at Virginia Tech with a passion for embedded systems, software development, and game design. I enjoy working on projects that bridge hardware and software, from low-level programming in C and MIPS assembly to image processing and game development.
+
+My experience includes developing custom algorithms, optimizing embedded systems, and experimenting with signal processing and circuit design. Whether it’s creating a game engine, designing PCBs, or working with real-time systems, I thrive on solving complex problems and pushing the limits of technology.
+
+Currently, I’m exploring opportunities for internships and co-ops to gain hands-on experience in the industry. If you’re interested in collaborating or learning more about my work, feel free to reach out!
 
 A data-driven personal website
 ======
